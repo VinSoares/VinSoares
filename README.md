@@ -9,7 +9,6 @@ Sou um entusiasta de tecnologia que adora aprender sobre coisas novas. Conecte-
 ✔ Atualmente estou aprendendo HTML, CSS, JS e Python.<br/>
 ✔ Atualmente estou trabalhando na criação de páginas da web e aprendendo a programar.<br/>
 ✔ Gosto de codificar, ler e brincar com os pets no meu tempo livre.<br/>
-✔ Sou um entusiasta de tecnologia que adora aprender sobre coisas novas. Conecte-se comigo no LinkedIn.<br/>
 
 
 
